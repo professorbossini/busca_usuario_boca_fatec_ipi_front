@@ -11,7 +11,7 @@ import { InputText } from 'primereact/inputtext'
 const App = () => {
     const [termoDeBusca, setTermoDeBusca] = useState('')
     const [resultados, setResultados] = useState([])
-    const url = `http://localhost:4000/dados_para_maratona`
+    const url = `https://boiling-ocean-63801.herokuapp.com/dados_para_maratona`
 
     const getLoginData = async (termoDeBusca) => {
         const result = await axios.get(url, {params: {termoDeBusca}})
