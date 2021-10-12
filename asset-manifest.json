@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/busca_usuario_boca_fatec_ipi_front/static/js/main.a14f06b0.chunk.js",
-    "main.js.map": "/busca_usuario_boca_fatec_ipi_front/static/js/main.a14f06b0.chunk.js.map",
-    "runtime-main.js": "/busca_usuario_boca_fatec_ipi_front/static/js/runtime-main.0ae007e5.js",
-    "runtime-main.js.map": "/busca_usuario_boca_fatec_ipi_front/static/js/runtime-main.0ae007e5.js.map",
+    "main.js": "/busca_usuario_boca_fatec_ipi_front/static/js/main.f8821d38.chunk.js",
+    "main.js.map": "/busca_usuario_boca_fatec_ipi_front/static/js/main.f8821d38.chunk.js.map",
+    "runtime-main.js": "/busca_usuario_boca_fatec_ipi_front/static/js/runtime-main.4957c233.js",
+    "runtime-main.js.map": "/busca_usuario_boca_fatec_ipi_front/static/js/runtime-main.4957c233.js.map",
     "static/css/2.f9524f66.chunk.css": "/busca_usuario_boca_fatec_ipi_front/static/css/2.f9524f66.chunk.css",
-    "static/js/2.2ed66045.chunk.js": "/busca_usuario_boca_fatec_ipi_front/static/js/2.2ed66045.chunk.js",
-    "static/js/2.2ed66045.chunk.js.map": "/busca_usuario_boca_fatec_ipi_front/static/js/2.2ed66045.chunk.js.map",
+    "static/js/2.59c4111d.chunk.js": "/busca_usuario_boca_fatec_ipi_front/static/js/2.59c4111d.chunk.js",
+    "static/js/2.59c4111d.chunk.js.map": "/busca_usuario_boca_fatec_ipi_front/static/js/2.59c4111d.chunk.js.map",
     "index.html": "/busca_usuario_boca_fatec_ipi_front/index.html",
     "static/css/2.f9524f66.chunk.css.map": "/busca_usuario_boca_fatec_ipi_front/static/css/2.f9524f66.chunk.css.map",
-    "static/js/2.2ed66045.chunk.js.LICENSE.txt": "/busca_usuario_boca_fatec_ipi_front/static/js/2.2ed66045.chunk.js.LICENSE.txt",
+    "static/js/2.59c4111d.chunk.js.LICENSE.txt": "/busca_usuario_boca_fatec_ipi_front/static/js/2.59c4111d.chunk.js.LICENSE.txt",
     "static/media/primeicons.css": "/busca_usuario_boca_fatec_ipi_front/static/media/primeicons.e61f3495.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.0ae007e5.js",
+    "static/js/runtime-main.4957c233.js",
     "static/css/2.f9524f66.chunk.css",
-    "static/js/2.2ed66045.chunk.js",
-    "static/js/main.a14f06b0.chunk.js"
+    "static/js/2.59c4111d.chunk.js",
+    "static/js/main.f8821d38.chunk.js"
   ]
 }
