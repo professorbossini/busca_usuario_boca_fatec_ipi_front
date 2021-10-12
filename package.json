@@ -1,6 +1,6 @@
 {
   "homepage": "http://professorbossini.github.io/busca_usuario_boca_fatec_ipi_front",
-  "name": "busca_usuario_boca_fatec_ipi_front",
+  "name": "busca-usuario-boca-fatec-ipi-front",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
